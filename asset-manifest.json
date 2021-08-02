@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dragonraja-admin/static/css/main.289383f0.chunk.css",
-    "main.js": "/dragonraja-admin/static/js/main.077773df.chunk.js",
-    "main.js.map": "/dragonraja-admin/static/js/main.077773df.chunk.js.map",
+    "main.js": "/dragonraja-admin/static/js/main.7cba684f.chunk.js",
+    "main.js.map": "/dragonraja-admin/static/js/main.7cba684f.chunk.js.map",
     "runtime-main.js": "/dragonraja-admin/static/js/runtime-main.e552c352.js",
     "runtime-main.js.map": "/dragonraja-admin/static/js/runtime-main.e552c352.js.map",
     "static/js/2.ff1413ba.chunk.js": "/dragonraja-admin/static/js/2.ff1413ba.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e552c352.js",
     "static/js/2.ff1413ba.chunk.js",
     "static/css/main.289383f0.chunk.css",
-    "static/js/main.077773df.chunk.js"
+    "static/js/main.7cba684f.chunk.js"
   ]
 }
