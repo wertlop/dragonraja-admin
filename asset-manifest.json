@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dragonraja-admin/static/css/main.289383f0.chunk.css",
-    "main.js": "/dragonraja-admin/static/js/main.d7af27e2.chunk.js",
-    "main.js.map": "/dragonraja-admin/static/js/main.d7af27e2.chunk.js.map",
+    "main.js": "/dragonraja-admin/static/js/main.dc7be84a.chunk.js",
+    "main.js.map": "/dragonraja-admin/static/js/main.dc7be84a.chunk.js.map",
     "runtime-main.js": "/dragonraja-admin/static/js/runtime-main.e552c352.js",
     "runtime-main.js.map": "/dragonraja-admin/static/js/runtime-main.e552c352.js.map",
-    "static/js/2.27097e2c.chunk.js": "/dragonraja-admin/static/js/2.27097e2c.chunk.js",
-    "static/js/2.27097e2c.chunk.js.map": "/dragonraja-admin/static/js/2.27097e2c.chunk.js.map",
+    "static/js/2.4b3e8069.chunk.js": "/dragonraja-admin/static/js/2.4b3e8069.chunk.js",
+    "static/js/2.4b3e8069.chunk.js.map": "/dragonraja-admin/static/js/2.4b3e8069.chunk.js.map",
     "static/js/3.6c847916.chunk.js": "/dragonraja-admin/static/js/3.6c847916.chunk.js",
     "static/js/3.6c847916.chunk.js.map": "/dragonraja-admin/static/js/3.6c847916.chunk.js.map",
     "index.html": "/dragonraja-admin/index.html",
     "static/css/main.289383f0.chunk.css.map": "/dragonraja-admin/static/css/main.289383f0.chunk.css.map",
-    "static/js/2.27097e2c.chunk.js.LICENSE.txt": "/dragonraja-admin/static/js/2.27097e2c.chunk.js.LICENSE.txt"
+    "static/js/2.4b3e8069.chunk.js.LICENSE.txt": "/dragonraja-admin/static/js/2.4b3e8069.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e552c352.js",
-    "static/js/2.27097e2c.chunk.js",
+    "static/js/2.4b3e8069.chunk.js",
     "static/css/main.289383f0.chunk.css",
-    "static/js/main.d7af27e2.chunk.js"
+    "static/js/main.dc7be84a.chunk.js"
   ]
 }
